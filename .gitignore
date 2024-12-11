@@ -1,0 +1,9 @@
+
+*.txt
+*.pbix             
+*.xml
+*.zip
+*.xlsx
+Entrada/
+Saída/
+EFD'S/
